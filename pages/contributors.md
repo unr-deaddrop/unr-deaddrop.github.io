@@ -28,4 +28,4 @@ Dr. Sengupta is a professor at the University of Nevada, Reno.
 
 ### Devrin Lee
 
-### Vinh Lee
+### Vinh Le
