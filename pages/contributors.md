@@ -18,7 +18,7 @@ Lloyd is responsible for the implementation of agents due to his experience in m
 # Advisor
 
 ### Shamik Sengupta
-Shamik is a professor at the University of Nevada, Reno
+Dr. Sengupta is a professor at the University of Nevada, Reno.
 
 # Instructors
 
