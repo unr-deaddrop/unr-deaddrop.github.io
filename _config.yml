@@ -1,6 +1,7 @@
 title: DeadDrop
 description: DeadDrop project website
 theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.5.2
 
 url: https://unr-deaddrop.github.io
 color_scheme: dark
