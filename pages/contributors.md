@@ -7,7 +7,7 @@ has_children: false
 # Meet the Team
 
 ### Jann Arellano
-Jann responsible for the Django backend due to his full-stack development and data analytics experience.
+Jann is responsible for the Django backend due to his full-stack development and data analytics experience.
 ### Brian Buslon
 Brian is resposible for for the Svelte frontend (both its visual design and implementation) due to his graphic design and web development experience.
 ### Keaton Clark
