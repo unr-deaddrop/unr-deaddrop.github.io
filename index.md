@@ -8,7 +8,7 @@ nav_order: 1
   <i>a clever command and control framework</i>
 </center>
 
-DeadDrop is the Spring 2023 CS 426 Senior Project in Computer Science for Team 08, instructed by David Feil-Seifer, Devrin Lee, and Sara Davis.
+[DeadDrop](https://unr-deaddrop.github.io/) is the Spring 2023 CS 426 Senior Project in Computer Science for Team 08, instructed by David Feil-Seifer, Devrin Lee, and Sara Davis.
 
 Team 08 is composed of the following members within the Department of Computer Science and Engineering at the University of Nevada, Reno:
 - Jann Arellano
