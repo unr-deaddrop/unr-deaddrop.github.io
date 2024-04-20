@@ -23,5 +23,5 @@ DeadDrop is advised by [Shamik Sengupta](https://www.unr.edu/cse/people/shamik-s
 For the purposes of initial grading, the following pages explicitly contain the remaining information and can be found in the navbar:
 - Project description: [Overview](/pages/overview)
 - Administrative details: [Contributors](/pages/contributors)
+- News and Other Information: [Project Updates](/pages/project_updates/project_updates) 
 - Project-related resources: [Resources](/pages/resources)
-
