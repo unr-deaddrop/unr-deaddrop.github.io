@@ -19,7 +19,7 @@ Like many C2 frameworks, DeadDrop provides the following major features through 
 - Reporting and administration: The server provides permissions systems and logging for developing organizational reports and ensuring accountability.
 
 ### Visualization of Codebase Development
-At this point, the entire DeadDrop project is 31,000 lines of code (of which half is random JavaScript boilerplate)
+We've spent the last few months building the foundation to create an ecosystem of agents that adhere to the DeadDrop framework, built on an extremely modular architecture and a huge set of standard interfaces. At this point, the entire DeadDrop project is 31,000 lines of code (of which half is random JavaScript boilerplate)
 across 14 repositories, a testament to how much time has been spent complaining about JavaScript.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0rxjsxaqr50?si=vbC-URrcFGGJnXXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wcX7spr_SXo?si=vfrrOl_XfZYn94Ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
