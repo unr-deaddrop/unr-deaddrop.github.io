@@ -1,14 +1,16 @@
 ---
 title: Contributions
 layout: default
-parent: Project Updates
+parent: Documentation
 ---
 ## Approximate Estimations
 The entire DeadDrop project is 31,000 lines of code across 14 repositories, the following are some rough statistics of the 
 contributions made to the project of the course of a year using cloc and github.
 
-### Estimate 1
-./prototype_frontend
+<details markdown="block">
+  <summary> <b> Estimate 1: Hours Worked and Commits </b> </summary>
+  
+  ./prototype_frontend
 Total commits: 3
 Total ctimes: 155
 Total files: 23
@@ -156,9 +158,12 @@ Total loc: 6761
 |:---------------|------:|------:|-------:|-------:|:----------------|
 | lgactna        |    46 |  6558 |    283 |     61 | 97.0/95.3/89.7  |
 | Lloyd Gonzales |     7 |   203 |     14 |      7 | 3.0/ 4.7/10.3   |
+  
+</details>
 
-### Estimate 2
-./prototype_frontend
+<details markdown="block">
+  <summary> <b> Estimate 2: Code Insertions and Deletions </b> </summary>
+  ./prototype_frontend
 Contribution stats (by author) on the current branch:
 
          lgactna <lgonzalesna@gmail.com>:
@@ -634,10 +639,13 @@ Contribution stats (by author) on the current branch:
           deletions:     5966   (100%)
           files:         842    (100%)
           commits:       259    (100%)
+</details>
 
-### Estimate 3
 
-File                     | Files | Blank | Comment | Code  |
+<details markdown="block">
+  <summary> <b>Estimate 1: Hours Worked and Commits</b> </summary>
+  
+  File                     | Files | Blank | Comment | Code  |
 |--------------------------|-------|-------|---------|-------|
 | frontend                 | 131   | 1009  | 256     | 10307 |
 | prototype_frontend       | 23    | 79    | 9       | 4766  |
@@ -650,3 +658,5 @@ File                     | Files | Blank | Comment | Code  |
 | demo-end-screen          | 3     | 7     | 0       | 38    |
 | .github                  | 2     | 3     | 0       | 10    |
 | **SUM:**                 | **316** | **3643** | **3845** | **27411** |
+</details>
+
