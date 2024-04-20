@@ -1,8 +1,8 @@
 ---
 title: Functional Requirements
 layout: default
-parent: Project Updates
----
+parent: Documentation
+
 ## Description
 The following section describes every individual functional and non-functional requirement that has been specified throughout the PA documents, including those that we believe are unlikely to be completed this semester. 
 

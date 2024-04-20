@@ -1,7 +1,7 @@
 ---
 title: Evolution of Frontend 
 layout: default
-parent: Project Updates
+parent: Documentation
 ---
 
 ## Details 
