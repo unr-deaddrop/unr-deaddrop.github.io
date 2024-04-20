@@ -18,3 +18,7 @@ Like many C2 frameworks, DeadDrop provides the following major features through 
 - Messaging: Users can communicate with agents to execute commands on remote devices and receive results.
 - Reporting and administration: The server provides permissions systems and logging for developing organizational reports and ensuring accountability.
 
+### Visualization of Codebase Development
+<video width="560" height="315" controls>
+  <source src="../../../media/video/repo.mp4 type="video/mp4">
+</video>
