@@ -22,4 +22,4 @@ Like many C2 frameworks, DeadDrop provides the following major features through 
 At this point, the entire DeadDrop project is 31,000 lines of code (of which half is random JavaScript boilerplate)
 across 14 repositories, a testament to how much time has been spent complaining about JavaScript.
 
-<iframe width="420" height="315" src="https://youtu.be/0rxjsxaqr50" frameborder="0" allowfullscreen/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rxjsxaqr50?si=vbC-URrcFGGJnXXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
