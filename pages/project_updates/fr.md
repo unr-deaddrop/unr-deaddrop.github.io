@@ -69,7 +69,3 @@ The following section describes every individual functional and non-functional r
 | R41 | 3 | DeadDrop shall allow users to write reusable scripts for sets of commands on an agent.             |        | Jann         |
 | R42 | 3 | The Svelte frontend shall provide desktop notifications of completed asynchronous tasks.           |        | Jann/Brian   |
 | R43 | 3 | Pygin shall implement a command to steal Discord session tokens for demonstration purposes.        | ◯      | Lloyd        |
-
-
-
-### Contributions
