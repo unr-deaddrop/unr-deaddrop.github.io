@@ -645,7 +645,7 @@ Contribution stats (by author) on the current branch:
 <details markdown="block">
   <summary> <b>Estimate 1: Hours Worked and Commits</b> </summary>
   
-  File                     | Files | Blank | Comment | Code  |
+|File                     | Files | Blank | Comment | Code  |
 |--------------------------|-------|-------|---------|-------|
 | frontend                 | 131   | 1009  | 256     | 10307 |
 | prototype_frontend       | 23    | 79    | 9       | 4766  |
@@ -658,5 +658,7 @@ Contribution stats (by author) on the current branch:
 | demo-end-screen          | 3     | 7     | 0       | 38    |
 | .github                  | 2     | 3     | 0       | 10    |
 | **SUM:**                 | **316** | **3643** | **3845** | **27411** |
+
+
 </details>
 
